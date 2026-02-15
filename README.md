@@ -1,4 +1,4 @@
-# City Speed Rush
+# NEED MORE SPEED
 
 ## 📌 Project Description
 City Speed Rush is a 3D arcade racing game developed in Unity. 
